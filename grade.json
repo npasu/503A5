@@ -1,9 +1,8 @@
 {
-  "repository": "local/repo",
-  "score": 0,
-  "total": 0,
+  "repository": "npasu/503A5",
+  "score": 5,
+  "total": 5,
   "failed": 0,
-  "percentage": "0.00%",
-  "error": "Server exited early with code 1",
-  "updatedAt": "2026-08-26T10:50:04.996Z"
+  "percentage": "100.00%",
+  "updatedAt": "2026-08-31T12:57:38.875Z"
 }

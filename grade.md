@@ -1,32 +1,14 @@
-# Autograding Report (Failed)
+# Autograding Report
 
-An error occurred during autograding:
+- **Repository:** `npasu/503A5`
+- **Score:** `5 / 5` (100.00%)
+- **Last Updated:** `8/31/2026, 12:57:38 PM`
 
-```
-Server exited early with code 1
-```
+## Summary
+| Metric | Count |
+| --- | --- |
+| Passed Assertions | 5 |
+| Failed Assertions | 0 |
+| Total Assertions | 5 |
 
-## Server Logs
-Here is the last output from the server before failure:
-
-```
-node:internal/modules/cjs/loader:1386
-  throw err;
-  ^
-
-Error: Cannot find module 'C:\Users\npas\work_eng_3.1\sw_practice\assignment_05\a5-npasu\server.js'
-    at Function._resolveFilename (node:internal/modules/cjs/loader:1383:15)
-    at defaultResolveImpl (node:internal/modules/cjs/loader:1025:19)
-    at resolveForCJSWithHooks (node:internal/modules/cjs/loader:1030:22)
-    at Function._load (node:internal/modules/cjs/loader:1192:37)
-    at TracingChannel.traceSync (node:diagnostics_channel:322:14)
-    at wrapModuleLoad (node:internal/modules/cjs/loader:237:24)
-    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:171:5)
-    at node:internal/main/run_main_module:36:49 {
-  code: 'MODULE_NOT_FOUND',
-  requireStack: []
-}
-
-Node.js v22.19.0
-
-```
+## 🎉 All tests passed!
