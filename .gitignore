@@ -1,7 +1,5 @@
 .git
 .github/
-__tests__/
-autogrades.js
 node_modules/*
 config/config.env
 test.json
